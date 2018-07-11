@@ -10,7 +10,7 @@ int main()
     int estado = 0, x = 0;
     char binario[256];
     printf("\n\n  Insira um numero em binario: ");
-    scanf("%s", &binario);
+    scanf("%s", binario);
     getchar();
       
 	while(binario[x] != '\0')
