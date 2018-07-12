@@ -1,5 +1,9 @@
+//Lara Cecilia dos Santos Angelo
+//11721EBI013
+
 #include <stdio.h>
 
+printf("Lara Cecilia dos Santos Angelo - 11721EBI013");
 int Exponencial(int Expoente)
 {
 	int Potencia = 10;
