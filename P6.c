@@ -1,3 +1,6 @@
+//Lara Cecilia dos Santos Angelo
+//11721EBI013
+
 #include <stdio.h>
 
 int Somar(int Vetor[20], int Auxiliar)
@@ -22,8 +25,9 @@ int Somar(int Vetor[20], int Auxiliar)
 
 int main ()
 {
-	int Vetor[20], Media, Soma, Numeros, i;
-	float Termos=0;
+	printf("Lara Cecilia dos Santos Angelo - 11721EBI013");
+	int Vetor[20], Soma, Numeros, i;
+	float Media, Termos=0;
 	printf("\n Informe a quantidade de numeros:  ");
 	scanf("%d", &Numeros);
 	for(i = 0; i < Numeros; i++)
