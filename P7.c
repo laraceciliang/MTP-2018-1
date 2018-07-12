@@ -1,3 +1,6 @@
+//Lara Cecilia dos Santos Angelo
+//11721EBI013
+
 #include <stdio.h>
 
 int FuncaodeAckermann(int m, int n)
@@ -18,6 +21,7 @@ int FuncaodeAckermann(int m, int n)
 
 int main()
 {	
+	printf("Lara Cecilia dos Santos Angelo - 11721EBI013");
 	int m, n;
 	printf("\n Insira os valores de m e n (m, n): ");
 	scanf("%d %d", &m, &n);
