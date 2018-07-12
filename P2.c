@@ -1,9 +1,12 @@
+//Lara Cecilia dos Santos Angelo
+//11721EBI013
+
 #include <stdio.h>
 
 int main()
 
 {
-    printf("Lara Cecilia dos Santos Angelo");
+    printf("Lara Cecilia dos Santos Angelo - 11721EBI013");
     int Opcao, Decimal, Hexadecimal, Octal, i, j=0, x=1, Contador, DecimalF=0;
     char Binario[20], BinarioC[20];
     printf("\n 1. Binario para Decimal \n 2. Binario para Hexadecimal \n 3. Hexadecimal para Decimal \n 4. Hexadecimal para Binario \n 5. Decimal para Hexadecimal \n 6. Decimal para Binario \n 7. Octal para Decimal \n 8. Decimal para Octal  ");
