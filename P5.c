@@ -1,7 +1,11 @@
+//Lara Cecilia dos Santos Angelo
+//11721EBI013
+
 #include <stdio.h>
 
 int main()
 {	
+	printf("Lara Cecilia dos Santos Angelo - 11721EBI013")
 	char *Ponteiro;
 	char String[256];
 	int *Ponteiros;
